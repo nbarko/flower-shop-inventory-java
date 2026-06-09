@@ -1,0 +1,17 @@
+Vrtnice,Rdeče vrtnice,2.5,rdeča,15,2025-05-22,40
+Vrtnice,Bela vrtnica,2.7,bela,12,2025-05-28,38
+Tulipani,Rumeni tulipani,1.9,rumena,20,2025-05-28,Triumf
+Tulipani,Vijolični tulipani,2.1,vijolična,18,2025-05-26,Parrot
+Zelenje,Praprot,0.9,zelena,30,2025-05-26,ne-rezano
+Zelenje,Sobna trava,1.1,zelena,25,2025-05-27,ne-rezano
+Orhideje,Bela orhideja,12.0,bela,5,2025-05-12,8
+Orhideje,Roza orhideja,13.5,roza,4,2025-05-20,7
+Palme,Loncnica,Areka palma,18.5,zelena,3,2025-05-20,false,150.0
+Palme,Loncnica,Kentia palma,21.0,zelena,2,2025-05-21,false,170.0
+Voscilnice,Rojstnodnevna voščilnica,2.0,modra,12,2025-05-05,rojstni dan
+Voscilnice,Voščilnica za krst,2.3,bela,10,2025-05-05,krst
+NagrobneSvece,Sveča XL,3.2,rdeča,20,2025-04-23,48
+NagrobneSvece,Sveča LED,4.0,bela,15,2025-04-23,72
+Grablje,Otroške grabljice,15.0,Modre,10,2025-05-29,30,plastične
+Grablje,Grablje (lesen ročaj),25.0,rjava,15,2025-05-29,150,lesene
+Grablje,Grablje (plastične),22.9,modra,15,2025-05-29,150,plastične
